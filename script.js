@@ -1,5 +1,4 @@
 function bcd(val){
-    console.log("Jarvis")
     document.getElementById("display").value=document.getElementById("display").value+val;
 }
 
